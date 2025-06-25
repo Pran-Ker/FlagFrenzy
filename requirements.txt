@@ -23,7 +23,7 @@ fsspec==2025.3.2
 google-api-core==2.24.2
 google-auth==2.38.0
 googleapis-common-protos==1.69.2
-grpcio==1.43.0
+grpcio==1.53.2
 gymnasium==1.0.0
 h11==0.14.0
 httptools==0.6.4
